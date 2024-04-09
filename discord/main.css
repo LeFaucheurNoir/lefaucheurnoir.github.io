@@ -467,7 +467,7 @@
         text-shadow:0 0 3px #000
     }
     .typeWindows_e41dab>.wordmark__5b8c9:after{
-        content:"v1.0.0";
+        content:var(--version);
         color:rgba(255,255,255,.3);
         font-family:var(--code-font);
         font-size:10px
