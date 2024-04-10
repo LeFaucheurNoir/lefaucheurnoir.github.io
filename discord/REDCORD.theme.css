@@ -29,7 +29,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgba(0,0,0,0);
   --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
