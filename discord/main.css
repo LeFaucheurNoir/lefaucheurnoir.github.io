@@ -555,7 +555,7 @@ textarea,
     content: var(--title);
     color: var(--title-color);
     font-size: 14px;
-    font-family:  var(--title-font);
+    font:  var(--title-font);
     text-shadow: 0 0 3px #000
 }
 
