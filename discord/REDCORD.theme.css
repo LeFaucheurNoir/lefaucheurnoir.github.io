@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: #ff8c00;
-  --background-image: url('https://lefaucheurnoir.github.io/discord/redcord.png');
+  --background-image: url('https://lefaucheurnoir.github.io/discord/redcord1.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://lefaucheurnoir.github.io/discord/redcord.png');
+  --user-modal-image: url('https://lefaucheurnoir.github.io/discord/redcord1.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -97,5 +97,12 @@
   --rs-streaming-color: #6811ff;
   --rs-phone-visible: true;
   --title:"REDCORD";
-  --version: "v1.0.2 by LeFaucheurNoir";
+  --title-color: blue;
+  --title-font: Agency FB;
+  --title-size: 14px;
+  --title-font-style: bold;
+  --version: "REDCORD }︻芫═── v1.0.2 by LeFaucheurNoir=== ──═芫︻{";
+  --version-color: rgba(255, 255, 255, 0.547);
+  --fake-url-color: red;
+  --svg-discord-color: red;
 }
