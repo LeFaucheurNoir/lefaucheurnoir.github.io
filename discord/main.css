@@ -554,10 +554,10 @@ textarea,
 .typeWindows_e41dab>.wordmark__5b8c9:before {
     content: var(--title);
     color: var(--title-color);
-    font-size: 14px;
-    font: Agency FB;
-    font-style: bold;
-    text-shadow: 0 0 3px #000
+    font-size: var(--title-size);
+    font: var(--title-font);
+    font-style: var(--title-font-style);
+    text-shadow: var(--title-color)
 }
 
 .typeWindows_e41dab>.wordmark__5b8c9:after {
