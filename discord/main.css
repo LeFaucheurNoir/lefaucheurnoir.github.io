@@ -1745,7 +1745,7 @@ button.button_adca65.disabled_adca65>.contents_dd4f85>svg {
 }
 
 .base_a4d4d9 .noChannel_e1ef5f {
-    background: rgba(0, 0, 0, .5)
+    background: rgba(0, 0, 0, 0)
 }
 
 .noChannel_e1ef5f .image_a3747e {
@@ -2798,7 +2798,7 @@ textarea::-webkit-scrollbar {
 }
 
 .slider_c7a159 .bar_c7a159 {
-    background: rgb(255, 0, 0);
+    background: rgba(255, 255, 255, 0.007);
     transition: all .15s ease-in-out
 }
 
