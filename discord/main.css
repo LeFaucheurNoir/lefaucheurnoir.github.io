@@ -81,7 +81,8 @@
     --bd-blue-hover: var(--hover-color);
     --bd-blue-active: var(--hover-color);
     --font-primary: var(--main-font);
-    --font-code: var(--code-font)
+    --font-code: var(--code-font);
+    --bg-color: rgb(255,255,255,.5);
 }
 
 @keyframes cv-fade-in {
@@ -416,7 +417,8 @@
 
 .app_a01fb1,
 body {
-    background: rgba(0, 0, 0, 0)
+    background: rgba(0, 0, 0, 0);
+    background-color: var(--bg-color);
 }
 
 .bg_d4b6c5 {
