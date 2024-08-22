@@ -2786,7 +2786,7 @@ div[aria-checked=true] .mentionButton_b11c5e {
 
 .chat_a7d72e .scrollerBase_eed6a8::-webkit-scrollbar-track-piece,
 .membersWrap_cbd271 .scrollerBase_eed6a8::-webkit-scrollbar-track-piece {
-    background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.3)) !important
+    background-color: rgba(0, 0, 0, var(--app-background-darkness)) !important
 }
 
 textarea::-webkit-scrollbar {
@@ -2798,7 +2798,7 @@ textarea::-webkit-scrollbar {
 }
 
 .slider_c7a159 .bar_c7a159 {
-    background: rgba(255, 255, 255, .04);
+    background: rgba(255, 255, 255, 0);
     transition: all .15s ease-in-out
 }
 
