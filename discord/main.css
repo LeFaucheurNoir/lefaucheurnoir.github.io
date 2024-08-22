@@ -85,6 +85,35 @@
     --bg-color: rgb(255,255,255,.5);
 }
 
+
+
+body,
+#app-mount,
+#app-mount .app_bd26cc,
+#app-mount .app_a01fb1,
+#app-mount .container_e40c16.fixClipping-3GOd_d,
+#app-mount .wrapper_a2a7b5,
+#app-mount .bg_d4b6c5,
+#app-mount .layer_d4b6c5 ,
+#app-mount .container_ee69e0,
+#app-mount .privateChannels_f0963d,
+#app-mount .panels_a4d4d9 > *,
+#app-mount .chat_a7d72e,
+#app-mount .container_d1c246,
+#app-mount .wrapper_ba0ffb,
+#app-mount .noChat_a7d72e,
+#app-mount .members_cbd271,
+#app-mount .members_cbd271 > div,
+#app-mount .container_c2739c,
+#app-mount .applicationStore_cecc86,
+#app-mount .pageWrapper_a3a4ce,
+#app-mount .scrollerBase-_bVAAt,
+#app-mount .standardSidebarView_c25c6d,
+#app-mount .contentRegion_c25c6d {
+	background-color: transparent;
+}
+
+
 @keyframes cv-fade-in {
     from {
         opacity: 0
@@ -653,7 +682,7 @@ textarea,
 }
 
 .profileCard_c6b11b {
-    background: var(--background-overlay)
+    background: var(--app-background-card)
 }
 
 .role_c6b11b {
@@ -726,7 +755,7 @@ textarea,
 .homeContainer_e85cee .action_e3f878,
 .homeContainer_e85cee .sidebarCardWrapper_e85cee,
 .homeContainer_e85cee .row_b53f4f {
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.4))
+    background: rgba(0, 0, 0, 0)
 }
 
 .homeContainer_e85cee .action_e3f878:hover {
@@ -761,7 +790,7 @@ textarea,
 }
 
 .banner_d29eee {
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.4))
+    background: rgba(0, 0, 0,0)
 }
 
 .iconCircle_d29eee {
@@ -796,7 +825,7 @@ textarea,
 
 .sidebar_a4d4d9 {
     width: var(--channels-width);
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.3))
+    background: rgba(0, 0, 0, 0)
 }
 
 .platform-win .sidebar_a4d4d9 {
