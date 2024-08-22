@@ -3190,9 +3190,9 @@ textarea::-webkit-scrollbar {
 
 .base_a4d4d9 .container_fc4f04 {
     height: 48px;
-    background: rgba(0, 0, 0, var(--app-background-darkness));
-    box-shadow: 0 0 10px rgba(0, 0, 0, var(--app-background-shadow));
-    color: rgba(var(--app-color))
+    background: rgba(0, 0, 0, (calc(var(--background-shading) * 0.6)));
+    box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+    color: rgba(255, 255, 255, .5)
 }
 
 .base_a4d4d9 .chatHeaderBar_e2f46e {
