@@ -3192,13 +3192,13 @@ textarea::-webkit-scrollbar {
     height: 48px;
     background: rgba(0, 0, 0, (calc(var(--background-shading) * 0.6)));
     box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
-    color: rgba(255, 255, 255, .5)
+    color: rgba(255, 255, 255, 0)
 }
 
 .base_a4d4d9 .chatHeaderBar_e2f46e {
     background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
     box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
-    color: rgba(255, 255, 255, .5)
+    color: rgba(255, 255, 255, 0)
 }
 
 .container_fc4f04 .children_fc4f04 {
