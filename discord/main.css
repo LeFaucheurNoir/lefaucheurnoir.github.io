@@ -86,6 +86,13 @@
 }
 
 
+.bg_d4b6c5 {
+  background-color: transparent;
+}
+
+#app-mount .layer_d4b6c5  {
+  background-color: transparent;
+}
 
 body,
 #app-mount,
@@ -111,6 +118,48 @@ body,
 #app-mount .standardSidebarView_c25c6d,
 #app-mount .contentRegion_c25c6d {
 	background-color: transparent;
+}
+#app-mount .children_fc4f04:after {
+	display: none;
+}
+#app-mount .wrapper_fea3ef {
+	background-color: transparent;
+}
+#app-mount .container_fc4f04.themed_fc4f04,
+#app-mount .sidebarRegion_c25c6d,
+#app-mount .sidebar_a4d4d9,
+#app-mount .panels_a4d4d9,
+#app-mount .membersWrap_cbd271,
+#app-mount .nowPlayingColumn_c2739c {
+	background-color: transparent;
+}
+
+.theme-dark .scroller_fea3ef {
+	background: transparent;
+}
+
+.chatContent_a7d72e {
+  background-color: transparent;
+}
+
+.theme-dark .scroller_c47fa9 {
+  background-color: transparent;
+}
+
+.titleBar_a934d8 {
+  background-image: var(--ocean-bg);
+}
+
+.sidebarRegionScroller_c25c6d, .contentRegionShownSidebar_c25c6d {
+  background-color: transparent;
+}
+
+.searchBar_f0963d {
+  background-color: transparent;
+}
+.searchBar_f0963d .searchBarComponent_f0963d {
+  background-color: transparent;
+  border-radius: 20px;
 }
 
 
