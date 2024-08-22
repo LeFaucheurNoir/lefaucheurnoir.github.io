@@ -1745,7 +1745,7 @@ button.button_adca65.disabled_adca65>.contents_dd4f85>svg {
 }
 
 .base_a4d4d9 .noChannel_e1ef5f {
-    background: rgba(0, 0, 0, 0)
+    background: rgba(0, 0, 0, .5)
 }
 
 .noChannel_e1ef5f .image_a3747e {
@@ -2798,7 +2798,7 @@ textarea::-webkit-scrollbar {
 }
 
 .slider_c7a159 .bar_c7a159 {
-    background: rgba(255, 255, 255, 0.007);
+    background: rgb(255, 255, 255);
     transition: all .15s ease-in-out
 }
 
@@ -3190,9 +3190,9 @@ textarea::-webkit-scrollbar {
 
 .base_a4d4d9 .container_fc4f04 {
     height: 48px;
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
-    box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
-    color: rgba(255, 255, 255, .5)
+    background: rgba(0, 0, 0, var(--app-background-darkness));
+    box-shadow: 0 0 10px rgba(0, 0, 0, var(--app-background-shadow));
+    color: rgba(var(--app-color))
 }
 
 .base_a4d4d9 .chatHeaderBar_e2f46e {
