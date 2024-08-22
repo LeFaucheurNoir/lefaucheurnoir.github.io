@@ -787,7 +787,7 @@ textarea,
 
 .prompt_cd377c,
 .termsFieldBody_cd377c {
-    background: rgba(0, 0, 0, .3)
+    background: var(--bg-color)
 }
 
 .overlay_cd377c {
@@ -6979,7 +6979,7 @@ code {
 
 .bannerBody_b0ceed,
 .cardBody_b0ceed {
-    background-color: rgba(0, 0, 0, .4)
+    background-color: var(--bg-color)
 }
 
 .cardAvatar_b0ceed,
@@ -10174,7 +10174,7 @@ code {
 .theme-dark .tierHeaderLocked_da77bd,
 .theme-dark .tierHeaderUnlocked_da77bd,
 .theme-dark .tierBody_da77bd {
-    background-color: rgba(0, 0, 0, .4)
+    background-color: var(--bg-color)
 }
 
 .standardSidebarView_c25c6d {
