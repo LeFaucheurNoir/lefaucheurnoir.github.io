@@ -1750,7 +1750,7 @@ button.button_adca65.disabled_adca65>.contents_dd4f85>svg {
 }
 
 .base_a4d4d9 .noChannel_e1ef5f {
-    background: rgba(0, 0, 0, .5)
+    background: rgba(0, 0, 0, 0)
 }
 
 .noChannel_e1ef5f .image_a3747e {
@@ -2791,7 +2791,7 @@ div[aria-checked=true] .mentionButton_b11c5e {
 
 .chat_a7d72e .scrollerBase_eed6a8::-webkit-scrollbar-track-piece,
 .membersWrap_cbd271 .scrollerBase_eed6a8::-webkit-scrollbar-track-piece {
-    background-color: rgba(0, 0, 0, var(--app-background-darkness)) !important
+    background-color: rgba(0, 0, 0, 0) !important
 }
 
 textarea::-webkit-scrollbar {
@@ -3195,13 +3195,13 @@ textarea::-webkit-scrollbar {
 
 .base_a4d4d9 .container_fc4f04 {
     height: 48px;
-    background: rgba(0, 0, 0, (calc(var(--background-shading) * 0.6)));
+    background: rgba(0, 0, 0, 0);
     box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
     color: rgba(255, 255, 255, 0)
 }
 
 .base_a4d4d9 .chatHeaderBar_e2f46e {
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+    background: rgba(0, 0, 0, 0);
     box-shadow: 0 0 10px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
     color: rgba(255, 255, 255, 0)
 }
@@ -7068,7 +7068,7 @@ code {
 
 .base_a4d4d9 .pageWrapper_a3a4ce,
 .base_a4d4d9 .scroller_a39aa3 {
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.5))
+    background: rgba(0, 0, 0, 0)
 }
 
 .theme-dark .sidebarContainer_a3a4ce {
@@ -7631,7 +7631,7 @@ code {
 }
 
 .base_a4d4d9 .pageContainer_a9a262 {
-    background: rgba(0, 0, 0, calc(var(--background-shading) * 0.5))
+    background: rgba(0, 0, 0, 0)
 }
 
 .optionItem__7394f.selected_d808b0 .layout_d808b0 {
