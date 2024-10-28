@@ -10250,7 +10250,7 @@ code {
 .standardSidebarView_c25c6d .sidebar_c25c6d .side_a0 .item_a0 {
     position: relative;
     padding: 8px 20px;
-    color: var(--channel-color);
+    color: var(--text-color-settings);
     margin: 0;
     background: rgba(0, 0, 0, 0);
     transition: all .15s ease-in-out;
