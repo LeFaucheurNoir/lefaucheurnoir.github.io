@@ -2924,7 +2924,7 @@ textarea::-webkit-scrollbar {
 
 .topPill_a0 .themed_a0.item_a0,
 .side_a0 .themed_a0.item_a0 {
-    color: rgba(255, 255, 255, .5);
+    color: var(--text-color-settings);
     transition: all .3s ease-in-out
 }
 
