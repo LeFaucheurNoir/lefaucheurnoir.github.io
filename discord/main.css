@@ -11561,3 +11561,6 @@ div.credentialItem_eaef52.container_d808b0 {
 div.credentialItem_eaef52.container_d808b0:first-of-type {
     border: none
 }
+.contents_f9f2ca span {
+    color: var(--chat-text-color)
+}
